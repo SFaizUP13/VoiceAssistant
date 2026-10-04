@@ -2,3 +2,4 @@ openai-whisper
 groq
 streamlit
 gTTS
+anthropic
